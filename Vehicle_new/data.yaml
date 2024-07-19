@@ -1,0 +1,6 @@
+train: C:/Users/omkar/omkar_/PES/TDL_Project/Vehicle_new/train/images
+val: C:/Users/omkar/omkar_/PES/TDL_Project/Vehicle_new/valid/images
+test: C:/Users/omkar/omkar_/PES/TDL_Project/Vehicle_new/test/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']

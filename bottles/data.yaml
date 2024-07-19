@@ -1,0 +1,6 @@
+train: C:/Users/omkar/omkar_/PES/TDL_Project/train/images
+val: C:/Users/omkar/omkar_/PES/TDL_Project/val/images
+test: C:/Users/omkar/omkar_/PES/TDL_Project/test/images
+
+nc: 1
+names: ['bottle']
